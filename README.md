@@ -1,1 +1,1 @@
-# Next.js using TypeScript + Tailwind CSS Template
+# Next.js starter template with TypeScript, Tailwind CSS and Prettier all ready configured 
